@@ -1,2 +1,2 @@
 # PSI-Labs
-Programy wykonane na laboratoriach z Podstaw Sztucznej Inteligencji
+Programy wykonane na laboratoria z Podstaw Sztucznej Inteligencji
