@@ -1,0 +1,5 @@
+komputer(intel,graficzny,1000,2000,400).
+komputer(intel,mikroprocesor,500,256,150).
+komputer(radeon,dzwiekowy,1500,3000,600).
+komputer(radeon,graficzny,1200,2000,500).
+komputer(amd,fizyczny,1700,1500,290).
